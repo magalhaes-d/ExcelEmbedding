@@ -42,22 +42,37 @@
         }
         .header-container .social-links {
             margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            gap: 15px;
         }
         .header-container .social-links a {
-            margin: 0 10px;
             text-decoration: none;
-            color: #555;
+            color: white;
             font-weight: bold;
-            transition: color 0.3s ease;
+            padding: 10px 20px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+            display: inline-block;
+            width: 150px;
+            text-align: center;
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        }
+        .header-container .social-links a.linkedin {
+            background-color: #0077b5;
+        }
+        .header-container .social-links a.medium {
+            background-color: #000;
+        }
+        .header-container .social-links a.github {
+            background-color: #333;
+        }
+        .header-container .social-links a.portfolio {
+            background-color: #6a0dad;
         }
         .header-container .social-links a:hover {
-            color: #0077b5; /* LinkedIn color for LinkedIn link */
-        }
-        .header-container .social-links a.medium:hover {
-            color: #000; /* Medium color */
-        }
-        .header-container .social-links a.github:hover {
-            color: #333; /* GitHub color */
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
         }
         .embed-container {
             text-align: center;
@@ -78,8 +93,9 @@
 
         <div class="social-links">
             <a href="https://www.linkedin.com/in/magalhaesd/" target="_blank">LinkedIn</a>
-            <a href="https://medium.com/@magalhaes-d" class="medium" target="_blank">Medium</a>
+            <a href="https://medium.com/@magalhaes-dl" class="medium" target="_blank">Medium</a>
             <a href="https://github.com/magalhaes-d" class="github" target="_blank">GitHub</a>
+            <a href="https://magalhaes-d.github.io/" class="portfolio" target="_blank">Portfólio</a>
         </div>
     </div>
 
