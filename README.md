@@ -2,7 +2,7 @@
 
 Este repositório foi criado para hospedar a página web que armazena a planilha Excel utilizada na exploração dos dados sobre vendas. Os resultados dessa análise estão publicados no Medium e podem ser acessados no link abaixo:
 
-[![Medium](https://img.shields.io/badge/Medium-An%C3%A1lise_Estat%C3%ADstica_Descritiva_sobre_Vendas-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@magalhaes-d/an%C3%A1lise-estat%C3%ADstica-descritiva-sobre-vendas-9dbdb07d8479)
+[![Medium](https://img.shields.io/badge/Medium-An%C3%A1lise_Estat%C3%ADstica_Descritiva_sobre_Vendas-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@magalhaes-d/análise-estatística-descritiva-sobre-vendas-9dbdb07d8479)
 
 # 🌐 Acesse a Página
 
