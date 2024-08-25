@@ -12,7 +12,7 @@ Você pode visualizar a planilha e explorar os dados diretamente na página web 
 
 # 📊 Resumo
 
-No artigo mencionado acima, foram documentados os principais resultados da análise estatística descritiva sobre vendas de uma determianda empresa.
+No artigo mencionado acima, foram documentados os principais resultados da análise estatística descritiva sobre vendas de uma determinada empresa.
 
 A base de dados utilizada na análise foi obtida na seção de dados exemplares da ferramenta Tableau, contendo informações sobre produtos, vendas e lucros de uma determinada empresa. Você pode acessar os dados utilizados na análise através do link abaixo:
 
@@ -22,6 +22,6 @@ A base de dados utilizada na análise foi obtida na seção de dados exemplares 
 
 Conecte-se e explore mais sobre meu trabalho através dos links abaixo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/magalhaesd/))
-[![Medium](https://img.shields.io/badge/Medium-Posts-black?style=for-the-badge&logo=medium)]([https://medium.com/@seu-perfil](https://medium.com/@magalhaes-d))
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Visitar-blueviolet?style=for-the-badge&logo=github)]([https://seu-portfolio.com](https://magalhaes-d.github.io/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/magalhaesd/])
+[![Medium](https://img.shields.io/badge/Medium-Posts-black?style=for-the-badge&logo=medium)]([https://medium.com/@magalhaes-d])
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Visitar-blueviolet?style=for-the-badge&logo=github)]([https://magalhaes-d.github.io/])
