@@ -22,6 +22,6 @@ A base de dados utilizada na análise foi obtida na seção de dados exemplares 
 
 Conecte-se e explore mais sobre meu trabalho através dos links abaixo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/magalhaesd/])
-[![Medium](https://img.shields.io/badge/Medium-Posts-black?style=for-the-badge&logo=medium)]([https://medium.com/@magalhaes-d])
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Visitar-blueviolet?style=for-the-badge&logo=github)]([https://magalhaes-d.github.io/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/magalhaesd/)
+[![Medium](https://img.shields.io/badge/Medium-Posts-black?style=for-the-badge&logo=medium)](https://medium.com/@magalhaes-d)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Visitar-blueviolet?style=for-the-badge&logo=github)](https://magalhaes-d.github.io/)
