@@ -40,6 +40,25 @@
             font-size: 1.2rem;
             color: #555;
         }
+        .header-container .social-links {
+            margin-top: 20px;
+        }
+        .header-container .social-links a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #555;
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+        .header-container .social-links a:hover {
+            color: #0077b5; /* LinkedIn color for LinkedIn link */
+        }
+        .header-container .social-links a.medium:hover {
+            color: #000; /* Medium color */
+        }
+        .header-container .social-links a.github:hover {
+            color: #333; /* GitHub color */
+        }
         .embed-container {
             text-align: center;
         }
@@ -56,6 +75,12 @@
     <div class="container header-container">
         <h1>Exploração dos Dados</h1>
         <p>Abaixo se encontra a planilha utilizada na exploração dos dados e descoberta de insights.</p>
+
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/magalhaesd/" target="_blank">LinkedIn</a>
+            <a href="https://medium.com/@magalhaes-d" class="medium" target="_blank">Medium</a>
+            <a href="https://github.com/magalhaes-d" class="github" target="_blank">GitHub</a>
+        </div>
     </div>
 
     <div class="container embed-container">
